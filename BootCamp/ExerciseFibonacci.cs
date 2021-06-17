@@ -2,7 +2,7 @@
 
 namespace BootCamp
 {
-    class EjercicioFibonacci
+    class ExerciseFibonacci
     {
         static void Main(string[] args)
         {
