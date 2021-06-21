@@ -38,9 +38,9 @@ namespace DataTypes
             decimal num13 = 1.60217657M;
             decimal num14 = 7.8184261974584555216535342341M;
 
-            Console.WriteLine(num12);
-            Console.WriteLine(num13);
-            Console.WriteLine(num14);
+            Console.WriteLine(num12.ToString().Replace(",", "."));
+            Console.WriteLine(num13.ToString().Replace(",","."));
+            Console.WriteLine(num14.ToString().Replace(",", "."));
 
 
         }

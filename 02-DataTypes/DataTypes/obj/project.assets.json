@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\DataTypes\\DataTypes\\DataTypes.csproj",
+      "projectUniqueName": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\02-DataTypes\\DataTypes\\DataTypes.csproj",
       "projectName": "DataTypes",
-      "projectPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\DataTypes\\DataTypes\\DataTypes.csproj",
+      "projectPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\02-DataTypes\\DataTypes\\DataTypes.csproj",
       "packagesPath": "C:\\Users\\Core i 7\\.nuget\\packages\\",
-      "outputPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\DataTypes\\DataTypes\\obj\\",
+      "outputPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\02-DataTypes\\DataTypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
