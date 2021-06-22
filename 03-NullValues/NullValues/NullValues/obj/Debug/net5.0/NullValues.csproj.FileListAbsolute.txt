@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\bin\Debug\net5.0\NullValues.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\bin\Debug\net5.0\NullValues.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\bin\Debug\net5.0\NullValues.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\bin\Debug\net5.0\NullValues.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\bin\Debug\net5.0\NullValues.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\bin\Debug\net5.0\ref\NullValues.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\bin\Debug\net5.0\NullValues.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\obj\Debug\net5.0\NullValues.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\obj\Debug\net5.0\NullValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\obj\Debug\net5.0\NullValues.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\obj\Debug\net5.0\NullValues.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\obj\Debug\net5.0\NullValues.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\obj\Debug\net5.0\NullValues.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\obj\Debug\net5.0\ref\NullValues.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\obj\Debug\net5.0\NullValues.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\03-NullValues\NullValues\NullValues\obj\Debug\net5.0\NullValues.genruntimeconfig.cache
