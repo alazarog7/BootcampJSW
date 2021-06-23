@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\bin\Debug\net5.0\BuiltInTypes.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\bin\Debug\net5.0\BuiltInTypes.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\bin\Debug\net5.0\BuiltInTypes.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\bin\Debug\net5.0\BuiltInTypes.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\bin\Debug\net5.0\BuiltInTypes.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\bin\Debug\net5.0\ref\BuiltInTypes.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\bin\Debug\net5.0\BuiltInTypes.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\obj\Debug\net5.0\BuiltInTypes.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\obj\Debug\net5.0\BuiltInTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\obj\Debug\net5.0\BuiltInTypes.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\obj\Debug\net5.0\BuiltInTypes.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\obj\Debug\net5.0\BuiltInTypes.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\obj\Debug\net5.0\BuiltInTypes.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\obj\Debug\net5.0\ref\BuiltInTypes.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\obj\Debug\net5.0\BuiltInTypes.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\04-Types\BuiltInTypes\BuiltInTypes\obj\Debug\net5.0\BuiltInTypes.genruntimeconfig.cache
