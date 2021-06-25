@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\bin\Debug\net5.0\ref\ReferenceType.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\obj\Debug\net5.0\ref\ReferenceType.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\05-ReferenceType\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.genruntimeconfig.cache

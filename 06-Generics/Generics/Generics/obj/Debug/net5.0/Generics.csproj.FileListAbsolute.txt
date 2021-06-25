@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\bin\Debug\net5.0\Generics.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\bin\Debug\net5.0\Generics.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\bin\Debug\net5.0\Generics.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\bin\Debug\net5.0\ref\Generics.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\bin\Debug\net5.0\Generics.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\obj\Debug\net5.0\Generics.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\obj\Debug\net5.0\Generics.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\obj\Debug\net5.0\ref\Generics.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\obj\Debug\net5.0\Generics.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\06-Generics\Generics\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
