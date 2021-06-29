@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\08-AnonymousTypes-Theory\\AnonymousTypes\\AnonymousTypes\\AnonymousTypes.csproj",
+      "projectUniqueName": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\08-AnonymousTypes-Exercise\\AnonymousTypes\\AnonymousTypes\\AnonymousTypes.csproj",
       "projectName": "AnonymousTypes",
-      "projectPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\08-AnonymousTypes-Theory\\AnonymousTypes\\AnonymousTypes\\AnonymousTypes.csproj",
+      "projectPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\08-AnonymousTypes-Exercise\\AnonymousTypes\\AnonymousTypes\\AnonymousTypes.csproj",
       "packagesPath": "C:\\Users\\Core i 7\\.nuget\\packages\\",
-      "outputPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\08-AnonymousTypes-Theory\\AnonymousTypes\\AnonymousTypes\\obj\\",
+      "outputPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\08-AnonymousTypes-Exercise\\AnonymousTypes\\AnonymousTypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

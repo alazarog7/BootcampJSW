@@ -53,8 +53,8 @@ namespace AnonymousTypes
 
 
             object anonymousData = anonymous.getData();
-            PropertyInfo[] valores = anonymousData.GetType().GetProperties();
-            Console.WriteLine(string.Format("{0} {1}" , valores[0].GetValue(anonymousData, null), valores[1].GetValue(anonymousData, null)));
+            PropertyInfo[] values = anonymousData.GetType().GetProperties();
+            Console.WriteLine(string.Format("{0} {1}" , values[0].GetValue(anonymousData, null), values[1].GetValue(anonymousData, null)));
         }
     }
 
