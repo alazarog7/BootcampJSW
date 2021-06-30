@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\09-Interfaces\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache
