@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\bin\Debug\net5.0\Classes.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\bin\Debug\net5.0\Classes.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\bin\Debug\net5.0\Classes.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\bin\Debug\net5.0\ref\Classes.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\bin\Debug\net5.0\Classes.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\obj\Debug\net5.0\Classes.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\obj\Debug\net5.0\Classes.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\obj\Debug\net5.0\ref\Classes.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\obj\Debug\net5.0\Classes.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-Classes\Classes\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
