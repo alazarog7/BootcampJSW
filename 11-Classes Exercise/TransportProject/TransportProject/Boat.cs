@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace TransportProject
 {
-    public class Boat: AquaticTransport
+    public class Boat: Transport, IAquaticTransport
     {
-        public override void Navigate()
+        public void Navigate()
         {
             Console.WriteLine($"The boat is navigating with {Speed} km/h of speed carrying {Capacity} people");
         }

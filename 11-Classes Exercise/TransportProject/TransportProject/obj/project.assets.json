@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\10-ClassesExercise\\TransportProject\\TransportProject\\TransportProject.csproj",
+      "projectUniqueName": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\11-Classes Exercise\\TransportProject\\TransportProject\\TransportProject.csproj",
       "projectName": "TransportProject",
-      "projectPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\10-ClassesExercise\\TransportProject\\TransportProject\\TransportProject.csproj",
+      "projectPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\11-Classes Exercise\\TransportProject\\TransportProject\\TransportProject.csproj",
       "packagesPath": "C:\\Users\\Core i 7\\.nuget\\packages\\",
-      "outputPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\10-ClassesExercise\\TransportProject\\TransportProject\\obj\\",
+      "outputPath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\11-Classes Exercise\\TransportProject\\TransportProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -11,10 +11,12 @@ namespace TransportProject
             Console.WriteLine("---------- Boeing");
             Console.WriteLine();
 
-            Boeing boeing = new Boeing();
-            boeing.Capacity = 110;
-            boeing.Speed = 300; //km/h
-            boeing.Height = 10; //km
+            Boeing boeing = new Boeing() { 
+                Capacity = 110,
+                Speed = 300,
+                MaxHeight = 10
+            };
+
             boeing.Fly();
             boeing.Land();
 
@@ -23,39 +25,43 @@ namespace TransportProject
             Console.WriteLine("---------- ElectricFlyingCar");
             Console.WriteLine();
 
-            ElectricFlyingCar electricFlyingCar = new ElectricFlyingCar();
-            electricFlyingCar.Speed = 100; // km/h
-            electricFlyingCar.Capacity = 10;
-            electricFlyingCar.Wheels = 4;
-
-            electricFlyingCar.FlyingOption = new AirTransport();
-            electricFlyingCar.FlyingOption.Height = 100;
-            electricFlyingCar.FlyingOption.Fly();
-            electricFlyingCar.FlyingOption.Land();
+            ElectricFlyingCar electricFlyingCar = new ElectricFlyingCar() { 
+                Speed = 100,
+                Capacity = 10,
+                Wheels = 4,
+                MaxHeight = 1200
+            };
 
             electricFlyingCar.Handle();
+            
+            Console.WriteLine("Time to fly ...");
+            electricFlyingCar.Fly();
+            electricFlyingCar.Land();
 
             //----------- Toyota
             Console.WriteLine();
             Console.WriteLine("---------- Toyota");
             Console.WriteLine();
 
-            Toyota toyota = new Toyota();
-            toyota.Capacity = 4;
-            toyota.Wheels = 4;
-            toyota.Speed = 100; // km/h
+            Toyota toyota = new Toyota() {
+                Capacity = 4,
+                Wheels = 4,
+                Speed = 100
+            };
+            
             toyota.Handle();
 
             //---------- Boat
             Console.WriteLine();
             Console.WriteLine("---------- Boat");
             Console.WriteLine();
-            Boat boat = new Boat();
-            boat.Capacity = 10;
-            boat.Speed = 100; //km/h
-            boat.Navigate();
             
+            Boat boat = new Boat() { 
+                Capacity = 10,
+                Speed = 100
+            };
 
+            boat.Navigate();
         }
     }
 }

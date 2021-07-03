@@ -6,14 +6,24 @@ using System.Threading.Tasks;
 
 namespace TransportProject
 {
-    public class ElectricFlyingCar : LandTransport 
+    public class ElectricFlyingCar : Transport, IAirTransport, ILandTransport
     {
-        public AirTransport FlyingOption { get; set; }
+        public decimal MaxHeight { get; set; }
+        public int Wheels { get; set; }
 
-        public override void Handle()
+        public void Handle()
         {
             Console.WriteLine($"A modern car of {Wheels} wheels is running with {Speed} km/h of speed carrying {Capacity} people");
         }
 
+        public void Fly()
+        {
+            Console.WriteLine($"Flying at {MaxHeight} km of height, with speed of {Speed} km/h carrying {Capacity} people");
+        }
+
+        public void Land()
+        {
+            Console.WriteLine("Landing ...");
+        }
     }
 }

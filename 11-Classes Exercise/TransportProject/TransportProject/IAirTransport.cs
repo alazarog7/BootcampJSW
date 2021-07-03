@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace TransportProject
 {
-    public class AquaticTransport: Transport
+    public interface IAirTransport
     {
-        public virtual void Navigate()
-        {
-            Console.WriteLine("Navigating ...");
-        }
+        public void Fly();
+        public void Land();
     }
 }

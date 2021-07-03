@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace TransportProject
 {
-    public class Toyota: LandTransport
+    public class Toyota: Transport, ILandTransport
     {
-        public override void Handle()
+        public int Wheels { get; set; }
+        public void Handle()
         {
             Console.WriteLine($"Toyota car of {Wheels} wheels is running with {Speed} km/h of speed carrying {Capacity} people");
         }

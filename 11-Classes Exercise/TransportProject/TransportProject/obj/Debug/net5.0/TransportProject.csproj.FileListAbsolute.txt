@@ -14,3 +14,19 @@ D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-ClassesExercise\TransportPr
 D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-ClassesExercise\TransportProject\TransportProject\obj\Debug\net5.0\ref\TransportProject.dll
 D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-ClassesExercise\TransportProject\TransportProject\obj\Debug\net5.0\TransportProject.pdb
 D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\10-ClassesExercise\TransportProject\TransportProject\obj\Debug\net5.0\TransportProject.genruntimeconfig.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\bin\Debug\net5.0\TransportProject.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\bin\Debug\net5.0\TransportProject.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\bin\Debug\net5.0\TransportProject.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\bin\Debug\net5.0\TransportProject.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\bin\Debug\net5.0\TransportProject.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\bin\Debug\net5.0\ref\TransportProject.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\bin\Debug\net5.0\TransportProject.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\obj\Debug\net5.0\TransportProject.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\obj\Debug\net5.0\TransportProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\obj\Debug\net5.0\TransportProject.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\obj\Debug\net5.0\TransportProject.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\obj\Debug\net5.0\TransportProject.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\obj\Debug\net5.0\TransportProject.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\obj\Debug\net5.0\ref\TransportProject.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\obj\Debug\net5.0\TransportProject.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\11-Classes Exercise\TransportProject\TransportProject\obj\Debug\net5.0\TransportProject.genruntimeconfig.cache

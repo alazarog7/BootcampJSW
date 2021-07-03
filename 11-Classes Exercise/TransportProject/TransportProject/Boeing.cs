@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace TransportProject
 {
-    public class Boeing: AirTransport
+    public class Boeing: Transport, IAirTransport
     {
-        public override void Fly()
+        public decimal MaxHeight { get; set; }
+
+        public void Fly()
         {
-            Console.WriteLine($"Boeing is flying at {Height} km of height, with {Speed} km/h of speed carrying {Capacity} people");
+            Console.WriteLine($"Boeing is flying at {MaxHeight} km of height, with {Speed} km/h of speed carrying {Capacity} people");
         }
 
-        public override void Land()
+        public void Land()
         {
             Console.WriteLine("Boeing is landing");
         }
