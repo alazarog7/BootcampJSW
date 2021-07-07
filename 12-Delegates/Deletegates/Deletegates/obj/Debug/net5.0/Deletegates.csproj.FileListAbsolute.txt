@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\bin\Debug\net5.0\Deletegates.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\bin\Debug\net5.0\Deletegates.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\bin\Debug\net5.0\Deletegates.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\bin\Debug\net5.0\Deletegates.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\bin\Debug\net5.0\Deletegates.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\bin\Debug\net5.0\ref\Deletegates.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\bin\Debug\net5.0\Deletegates.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\obj\Debug\net5.0\Deletegates.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\obj\Debug\net5.0\Deletegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\obj\Debug\net5.0\Deletegates.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\obj\Debug\net5.0\Deletegates.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\obj\Debug\net5.0\Deletegates.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\obj\Debug\net5.0\Deletegates.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\obj\Debug\net5.0\ref\Deletegates.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\obj\Debug\net5.0\Deletegates.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\12-Delegates\Deletegates\Deletegates\obj\Debug\net5.0\Deletegates.genruntimeconfig.cache
