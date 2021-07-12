@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\bin\Debug\net5.0\Events.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\bin\Debug\net5.0\Events.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\bin\Debug\net5.0\Events.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\bin\Debug\net5.0\Events.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\bin\Debug\net5.0\Events.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\bin\Debug\net5.0\ref\Events.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\bin\Debug\net5.0\Events.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\obj\Debug\net5.0\Events.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\obj\Debug\net5.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\obj\Debug\net5.0\Events.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\obj\Debug\net5.0\Events.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\obj\Debug\net5.0\Events.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\obj\Debug\net5.0\Events.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\obj\Debug\net5.0\ref\Events.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\obj\Debug\net5.0\Events.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\13-Events\Events\Events\obj\Debug\net5.0\Events.genruntimeconfig.cache

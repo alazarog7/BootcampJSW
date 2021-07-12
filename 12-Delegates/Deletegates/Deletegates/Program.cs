@@ -74,7 +74,7 @@ namespace Deletegates
 
             Expresion expresion = new(20, 10);
 
-            var result = expresion.ApplyOperator(Operation.Divide);
+            var result = expresion.ApplyOperator(Operation.Sum);
 
             Console.WriteLine($"Result: {result}");
             Console.WriteLine(expresion.ApplyOperator2(Operation.Sum));

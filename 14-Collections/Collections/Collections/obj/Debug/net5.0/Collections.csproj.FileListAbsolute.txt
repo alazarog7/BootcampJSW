@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\bin\Debug\net5.0\Collections.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\bin\Debug\net5.0\Collections.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\bin\Debug\net5.0\Collections.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\bin\Debug\net5.0\Collections.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\bin\Debug\net5.0\Collections.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\bin\Debug\net5.0\ref\Collections.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\bin\Debug\net5.0\Collections.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\obj\Debug\net5.0\Collections.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\obj\Debug\net5.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\obj\Debug\net5.0\Collections.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\obj\Debug\net5.0\Collections.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\obj\Debug\net5.0\Collections.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\obj\Debug\net5.0\Collections.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\obj\Debug\net5.0\ref\Collections.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\obj\Debug\net5.0\Collections.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\14-Collections\Collections\Collections\obj\Debug\net5.0\Collections.genruntimeconfig.cache
