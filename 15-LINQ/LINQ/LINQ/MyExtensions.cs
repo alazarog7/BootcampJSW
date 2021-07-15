@@ -30,7 +30,7 @@ namespace LINQ
             var result = sequence
                 .Select(selector)
                 .GroupBy(n => n)
-                .OrderByDescending(e => e.Key)
+                .OrderByDescending(e => e.ToList().Count())
                 .FirstOrDefault();
             
             return result.Key;
@@ -41,7 +41,7 @@ namespace LINQ
             var result = sequence
                 .Select(selector)
                 .GroupBy(n => n)
-                .OrderBy(e => e.Key)
+                .OrderBy(e => e.ToList().Count())
                 .FirstOrDefault();
 
             return result.Key;
