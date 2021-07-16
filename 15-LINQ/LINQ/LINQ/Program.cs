@@ -88,9 +88,9 @@ namespace LINQ
             };
             Console.WriteLine(string.Join(",", products.Select(p=> p.Price).ToArray()));
             Console.WriteLine("Average: {0}",products.Average(p => p.Price));
-            Console.WriteLine("Median: {0}",products.Median<Product>(m => m.Price));
-            Console.WriteLine("Mode: {0}",products.Mode<Product>(m => m.Price));
-            Console.WriteLine("UnMode: {0}",products.UnMode<Product>(m => m.Price));
+            Console.WriteLine("Median: {0}",products.Median(m => m.Price));
+            Console.WriteLine("Mode: {0}",products.Mode(m => m.Price));
+            Console.WriteLine("UnMode: {0}",products.UnMode(m => m.Price));
 
         }
 
