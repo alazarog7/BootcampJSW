@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\bin\Debug\net5.0\Aritmetica.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\bin\Debug\net5.0\Aritmetica.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\bin\Debug\net5.0\Aritmetica.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\bin\Debug\net5.0\Aritmetica.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\bin\Debug\net5.0\Aritmetica.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\bin\Debug\net5.0\ref\Aritmetica.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\bin\Debug\net5.0\Aritmetica.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\obj\Debug\net5.0\Aritmetica.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\obj\Debug\net5.0\Aritmetica.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\obj\Debug\net5.0\Aritmetica.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\obj\Debug\net5.0\Aritmetica.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\obj\Debug\net5.0\Aritmetica.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\obj\Debug\net5.0\Aritmetica.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\obj\Debug\net5.0\ref\Aritmetica.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\obj\Debug\net5.0\Aritmetica.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Aritmetica\obj\Debug\net5.0\Aritmetica.genruntimeconfig.cache

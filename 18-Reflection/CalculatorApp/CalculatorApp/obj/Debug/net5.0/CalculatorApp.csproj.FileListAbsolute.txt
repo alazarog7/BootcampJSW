@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\obj\Debug\net5.0\CalculatorApp.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\obj\Debug\net5.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\obj\Debug\net5.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\obj\Debug\net5.0\CalculatorApp.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\obj\Debug\net5.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\bin\Debug\net5.0\CalculatorApp.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\bin\Debug\net5.0\CalculatorApp.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\bin\Debug\net5.0\CalculatorApp.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\bin\Debug\net5.0\CalculatorApp.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\bin\Debug\net5.0\CalculatorApp.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\bin\Debug\net5.0\ref\CalculatorApp.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\bin\Debug\net5.0\CalculatorApp.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\obj\Debug\net5.0\CalculatorApp.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\obj\Debug\net5.0\ref\CalculatorApp.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\obj\Debug\net5.0\CalculatorApp.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\18-Reflection\CalculatorApp\CalculatorApp\obj\Debug\net5.0\CalculatorApp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\bin\Debug\net5.0\Trigonometria.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\bin\Debug\net5.0\Trigonometria.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\bin\Debug\net5.0\Trigonometria.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\bin\Debug\net5.0\Trigonometria.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\bin\Debug\net5.0\Trigonometria.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\bin\Debug\net5.0\ref\Trigonometria.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\bin\Debug\net5.0\Trigonometria.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\obj\Debug\net5.0\Trigonometria.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\obj\Debug\net5.0\Trigonometria.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\obj\Debug\net5.0\Trigonometria.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\obj\Debug\net5.0\Trigonometria.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\obj\Debug\net5.0\Trigonometria.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\obj\Debug\net5.0\Trigonometria.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\obj\Debug\net5.0\ref\Trigonometria.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\obj\Debug\net5.0\Trigonometria.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\17-OOP\OOP\Trigonometria\obj\Debug\net5.0\Trigonometria.genruntimeconfig.cache
