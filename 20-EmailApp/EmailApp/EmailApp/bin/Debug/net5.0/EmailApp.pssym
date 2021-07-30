@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="476" PostSharpLinesOfCode="0" EnhancedTypesCount="8" SchemaVersion="1" PostSharpVersion="6.9.7.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharp]PostSharp.Serialization.PSerializableAttribute">
+    <Instance Declaration="#2=T:[EmailApp]EmailApp.Decorators.ViewAttribute" Id="e02934afdcf350bf">
+      <Target />
+    </Instance>
+  </Class>
+  <Class Class="#2">
+    <Instance Declaration="#3=M:[EmailApp]EmailApp.MailController::Start()" Id="e02934afa358cce7">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4=Wrapped by advice(s) OnEntry" Ordinal="0" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#5=M:[EmailApp]EmailApp.MailController::SendEmail()" Id="e02934af0106bfcb">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#6=M:[EmailApp]EmailApp.MailController::ReadEmail()" Id="e02934afdaf8f215">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="2" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#7=M:[EmailApp]EmailApp.MailController::DeleteEmail()" Id="e02934af20365ac6">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="3" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#8=M:[EmailApp]EmailApp.MailController::MoveEmail()" Id="e02934afd6ca78db">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="4" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#9=M:[EmailApp]EmailApp.Controller.AccountController::Start()" Id="e02934afa03036a0">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="5" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#10=M:[EmailApp]EmailApp.Controller.FolderController::Start()" Id="e02934afecedaa16">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="6" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#11=M:[EmailApp]EmailApp.Controller.FolderController::CreateFolder()" Id="e02934aff5bd3eca">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="7" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#12=M:[EmailApp]EmailApp.Controller.FolderController::RemoveFolder()" Id="e02934af4ac72f85">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="8" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#13=M:[EmailApp]EmailApp.Controller.MainController::Start()" Id="e02934af704ee809">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="9" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#14=M:[EmailApp]EmailApp.Controller.ProfileController::Start()" Id="e02934af898de267">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="10" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#15=M:[EmailApp]EmailApp.Controller.RuleController::Start()" Id="e02934af967daae7">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="11" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#16=M:[EmailApp]EmailApp.Controller.RuleController::CreateRule()" Id="e02934aff6932552">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="12" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#17=M:[EmailApp]EmailApp.Controller.RuleController::RemoveRule()" Id="e02934af626a6545">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="13" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#18=M:[EmailApp]EmailApp.Controller.SecurityController::Start()" Id="e02934afd31069ef">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#4" Ordinal="14" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#19=M:[EmailApp]EmailApp.Decorators.ViewAttribute::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#20=2" Description="#21=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+</Symbols>

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLhZSmbB6Q2oArfEPe5sXu7IY8lY/octq/BBimxWRgrEw/1xrkd3nwRWw/dy2dHo0XNI0FpSAeMOnd7m4KFJOQ==",
+  "success": true,
+  "projectFilePath": "D:\\BOOTCAMP_JALASOFT\\_BACKEND\\EJERCICIOS\\BootCamp\\20-EmailApp\\EmailApp\\EmailApp\\EmailApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Core i 7\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Core i 7\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Core i 7\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Core i 7\\.nuget\\packages\\postsharp\\6.9.7\\postsharp.6.9.7.nupkg.sha512",
+    "C:\\Users\\Core i 7\\.nuget\\packages\\postsharp.redist\\6.9.7\\postsharp.redist.6.9.7.nupkg.sha512",
+    "C:\\Users\\Core i 7\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Core i 7\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Core i 7\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\Core i 7\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Core i 7\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Core i 7\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

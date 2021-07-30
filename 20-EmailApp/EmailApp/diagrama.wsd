@@ -1,0 +1,208 @@
+@startuml
+left to right direction
+skinparam linetype ortho
+
+class Program{
+    + static void Main(string[] args)
+}
+
+interface IStarterApp
+{
+    + void Start()
+    + void Route(String controller)
+}
+
+class MainApp{
+    - DataSource _dataSource
+    - IMailService _mailService
+    - IFolderService _folderService
+    - IProfileService _profileService
+    - ISecurityService _securityService
+    - Dictionary<string, BaseController> controllers
+
+    + void Start()
+    + void Route(String controller)
+
+}
+
+
+
+package "Data"{
+    class DataSource{
+        + HashSet<Profile> Users
+        + Profile CurrentUse
+    }
+}
+
+package "Controller"{
+    abstract class BaseController{
+        + IStarterApp main
+        + abstract void Start()
+    }
+
+    class AccountController{
+        - IProfileService _profileService
+        - ISecurityService _securityService
+        + void Start()
+
+    }
+    
+    class FolderController{
+        - IProfileService _profileService
+        - IFolderService _folderService
+        + void Start()
+        - void CreateFolder()
+        - void RemoveFolder()
+    }
+
+    class MailController{
+        - IMailService _mailService
+        - IFolderService _folderService
+        - IProfileService _profileService
+        + void Start()
+        - void SendEmail()
+        - void ReadEmail()
+        - void DeleteEmail()
+        - void MoveEmail()
+    }
+
+    class MainController{
+        + void Start()
+    }
+
+    class ProfileController{
+        - IProfileService _profileService
+        + void Start()
+        - void CreateProfile( User user)
+    }
+
+    class RuleController{
+        + void Start()
+    }
+
+
+    class SecurityController{
+        - ISecurityService _securityService
+        + void Start()
+    }
+
+    BaseController <|-- AccountController
+    BaseController <|-- FolderController
+    BaseController <|-- MailController
+    BaseController <|-- MainController
+    BaseController <|-- ProfileController
+    BaseController <|-- RuleController
+    BaseController <|-- SecurityController
+}
+
+package "Services"{
+    package "FolderService"{
+        interface IFolderService{
+            List<string> GetAll();
+            void Create(string folderName);
+            void Remove(string folderName);
+        }
+        class FolderService{
+            - DataSource _data;
+            - IMailService _mailService;
+            + List<string> GetAll();
+            + void Create(string folderName);
+            + void Remove(string folderName);
+        }
+
+        IFolderService <|.. FolderService
+    }
+
+    package "MailService"{
+        interface IMailService{
+            + Dictionary<Guid, Mail> GetByFolder(string folderName)
+            + Mail GetById(Guid id)
+            + void Create(Mail mail)
+            + void Send(Tuple<Guid, Mail> mail)
+            + void Delete(Guid id, string folderName)
+            + void Move(string folderOrg, string folderDest, Guid id)
+        }
+        class MailService{
+            - DataSource _data
+            + Dictionary<Guid, Mail> GetByFolder(string folderName)
+            + Mail GetById(Guid id)
+            + void Create(Mail mail)
+            + void Send(Tuple<Guid, Mail> mail)
+            + void Delete(Guid id, string folderName)
+            + void Move(string folderOrg, string folderDest, Guid id)
+        }
+
+        IMailService <|.. MailService
+    }
+
+    package "ProfileService"{
+        interface IProfileService{
+            + void Create(User user);
+            + User GetCurrent();
+        }
+        class ProfileService{
+            - DataSource _data
+            - ISecurityService _securityService
+            + void Create(User user)
+            + User GetCurrent()
+        }
+
+        IProfileService <|.. ProfileService
+
+    }
+
+    package "SecurityService"{
+        interface ISecurityService{
+            + void Authenticate(string username);
+            + bool Verify(string username);
+            + void RemoveAuthetication();
+        }
+
+        class SecurityService{
+            - DataSource _data
+            + void Authenticate(string username);
+            + bool Verify(string username);
+            + void RemoveAuthetication();
+        }
+        ISecurityService <|.. SecurityService
+    }
+
+    package "RuleService"{
+        interface IRuleService{
+            + void Create(Rule rule)
+            + List<Rule> GetAll()
+            + void Delete(Guid id)
+            + string VerifyRule(Mail mail, String destinatary)
+        }
+
+        class RuleService{
+            - DataSource _data
+            + void Create(Rule rule)
+            + List<Rule> GetAll()
+            + void Delete(Guid id)
+            + string VerifyRule(Mail mail, String destinatary)
+        }
+        IRuleService <|.. RuleService
+    }
+
+}
+
+
+MainApp --> IFolderService
+MainApp --> IMailService
+MainApp --> IProfileService
+MainApp --> ISecurityService
+MainApp --> IRuleService
+
+MainApp --> DataSource
+
+
+
+
+IStarterApp <|.. MainApp
+IStarterApp --> BaseController
+Program --> IStarterApp
+
+@enduml
+
+
