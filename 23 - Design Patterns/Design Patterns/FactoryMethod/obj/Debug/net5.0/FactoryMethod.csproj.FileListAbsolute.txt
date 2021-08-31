@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\bin\Debug\net5.0\ref\FactoryMethod.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\obj\Debug\net5.0\ref\FactoryMethod.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.genruntimeconfig.cache
