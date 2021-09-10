@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\bin\Debug\net5.0\ChainResponsability.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\bin\Debug\net5.0\ChainResponsability.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\bin\Debug\net5.0\ChainResponsability.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\bin\Debug\net5.0\ChainResponsability.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\bin\Debug\net5.0\ChainResponsability.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\bin\Debug\net5.0\ref\ChainResponsability.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\bin\Debug\net5.0\ChainResponsability.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\obj\Debug\net5.0\ChainResponsability.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\obj\Debug\net5.0\ChainResponsability.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\obj\Debug\net5.0\ChainResponsability.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\obj\Debug\net5.0\ChainResponsability.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\obj\Debug\net5.0\ChainResponsability.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\obj\Debug\net5.0\ref\ChainResponsability.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\obj\Debug\net5.0\ChainResponsability.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\obj\Debug\net5.0\ChainResponsability.genruntimeconfig.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\ChainResponsability\obj\Debug\net5.0\ChainResponsability.csprojAssemblyReference.cache

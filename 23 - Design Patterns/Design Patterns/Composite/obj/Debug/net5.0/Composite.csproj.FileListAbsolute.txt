@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\bin\Debug\net5.0\Composite.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\bin\Debug\net5.0\Composite.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\bin\Debug\net5.0\Composite.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\bin\Debug\net5.0\Composite.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\bin\Debug\net5.0\Composite.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\bin\Debug\net5.0\ref\Composite.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\bin\Debug\net5.0\Composite.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\obj\Debug\net5.0\Composite.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\obj\Debug\net5.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\obj\Debug\net5.0\Composite.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\obj\Debug\net5.0\Composite.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\obj\Debug\net5.0\Composite.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\obj\Debug\net5.0\Composite.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\obj\Debug\net5.0\ref\Composite.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\obj\Debug\net5.0\Composite.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Composite\obj\Debug\net5.0\Composite.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\bin\Debug\net5.0\ref\BuilderPattern.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\obj\Debug\net5.0\ref\BuilderPattern.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.genruntimeconfig.cache
