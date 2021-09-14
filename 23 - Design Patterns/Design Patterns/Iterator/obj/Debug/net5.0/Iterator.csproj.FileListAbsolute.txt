@@ -1,0 +1,16 @@
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\obj\Debug\net5.0\Iterator.csprojAssemblyReference.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\obj\Debug\net5.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfoInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfo.cs
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\obj\Debug\net5.0\Iterator.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\bin\Debug\net5.0\Iterator.exe
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\bin\Debug\net5.0\Iterator.deps.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.dev.json
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\bin\Debug\net5.0\Iterator.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\bin\Debug\net5.0\ref\Iterator.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\bin\Debug\net5.0\Iterator.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\obj\Debug\net5.0\Iterator.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\obj\Debug\net5.0\ref\Iterator.dll
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\obj\Debug\net5.0\Iterator.pdb
+D:\BOOTCAMP_JALASOFT\_BACKEND\EJERCICIOS\BootCamp\23 - Design Patterns\Design Patterns\Iterator\obj\Debug\net5.0\Iterator.genruntimeconfig.cache
