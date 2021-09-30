@@ -1,0 +1,12 @@
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\bin\Debug\net5.0\TransferEntities.deps.json
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\bin\Debug\net5.0\TransferEntities.dll
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\bin\Debug\net5.0\ref\TransferEntities.dll
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\bin\Debug\net5.0\TransferEntities.pdb
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\obj\Debug\net5.0\TransferEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\obj\Debug\net5.0\TransferEntities.AssemblyInfoInputs.cache
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\obj\Debug\net5.0\TransferEntities.AssemblyInfo.cs
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\obj\Debug\net5.0\TransferEntities.csproj.CoreCompileInputs.cache
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\obj\Debug\net5.0\TransferEntities.dll
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\obj\Debug\net5.0\ref\TransferEntities.dll
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\obj\Debug\net5.0\TransferEntities.pdb
+D:\PROYECTOS_PERSONALES\backend_practica\netcore\Microservices\BackendProject\TransferEntities\obj\Debug\net5.0\TransferEntities.csprojAssemblyReference.cache

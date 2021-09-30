@@ -1,0 +1,116 @@
+{
+  "Aggregates": [
+    {
+      "UpstreamPathTemplate": "/api/user/{id}/attendances",
+      "RouteKeys": [ "users-id", "attendances-id" ],
+      "Aggregator": "UsersPostAggregator"
+    }
+  ],
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/api/users",
+      "UpstreamHttpMethod": [],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        },
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ],
+      "DownstreamPathTemplate": "/users",
+      "Key": "users",
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/api/users/{path}",
+      "UpstreamHttpMethod": [],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        },
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ],
+      "DownstreamPathTemplate": "/users/{path}",
+      "Key": "users-path",
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/api/users/{id}",
+      "UpstreamHttpMethod": ["GET"],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        },
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ],
+      "DownstreamPathTemplate": "/users/{id}",
+      "Key": "users-id",
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/api/attendances/{path}",
+      "UpstreamHttpMethod": [],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ],
+      "DownstreamPathTemplate": "/attendances/{path}",
+      "Key": "attendances-path",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/api/attendances/{id}",
+      "UpstreamHttpMethod": [],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ],
+      "DownstreamPathTemplate": "/attendances/{id}",
+      "Key": "attendances-id",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/api/attendances",
+      "UpstreamHttpMethod": [],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ],
+      "DownstreamPathTemplate": "/attendances",
+      "Key": "attendances",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:7004"
+  }
+}
